@@ -197,15 +197,8 @@ No repetition. No drift.
 
 ---
 
-
 # ✨ Features
-
-<div align="center">
-     <strong>Feature Overview</strong>
-     <br/>
-     <img src="assets/features.svg" alt="context-checkpoint features" width="100%"/>
-</div>
-
+<img src="assets/features.svg" alt="context-checkpoint features" width="100%"/>
 ## 💾 Intelligent Compression
 
 * Drops filler messages
@@ -295,7 +288,6 @@ Includes adapter prompts per model.
 
 ---
 
-
 # 📁 Project Structure
 
 ```
@@ -305,18 +297,7 @@ context-checkpoint/
     ├── compression.md
     ├── cross-model.md
     ├── security.md
-     ├── versioning.md
-
----
-
-# 🖼️ Assets
-
-This project includes custom SVG assets for branding and documentation:
-
-- `assets/banner.svg` — Main project banner, used at the top of this README.
-- `assets/features.svg` — Visual summary of all major features, shown in the Features section.
-
-You are welcome to reuse or adapt these SVGs for your own documentation or presentations.
+    ├── versioning.md
     ├── resume-modes.md
     ├── dashboard.md
     ├── analytics.md

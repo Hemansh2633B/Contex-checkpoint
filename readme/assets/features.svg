@@ -1,0 +1,75 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="120" fill="url(#bgf)" rx="10"/>
+  <rect width="900" height="120" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+
+  <!-- Feature 1: Save -->
+  <g transform="translate(45,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#1f6feb" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">💾</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Save</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">&amp; Compress</text>
+  </g>
+
+  <!-- Feature 2: Versions -->
+  <g transform="translate(155,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#238636" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">🔖</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Versions</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">&amp; Bookmarks</text>
+  </g>
+
+  <!-- Feature 3: Encrypt -->
+  <g transform="translate(265,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#e3b341" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">🔐</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">GPG / AES</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Encryption</text>
+  </g>
+
+  <!-- Feature 4: Cross-Model -->
+  <g transform="translate(375,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#a371f7" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">🔀</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Cross-Model</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Resume</text>
+  </g>
+
+  <!-- Feature 5: Dashboard -->
+  <g transform="translate(485,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#58a6ff" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">📊</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Token</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Dashboard</text>
+  </g>
+
+  <!-- Feature 6: Recovery -->
+  <g transform="translate(595,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#f85149" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">🛡️</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Self-Healing</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Recovery</text>
+  </g>
+
+  <!-- Feature 7: Export -->
+  <g transform="translate(705,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#3fb950" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">📤</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Export</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">PDF / Quiz</text>
+  </g>
+
+  <!-- Feature 8: Merge -->
+  <g transform="translate(815,20)">
+    <circle cx="30" cy="28" r="26" fill="#1f2937" stroke="#e3b341" stroke-width="1.5" opacity="0.9"/>
+    <text x="30" y="34" font-size="20" text-anchor="middle">🔗</text>
+    <text x="30" y="70" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Merge</text>
+    <text x="30" y="82" font-size="9.5" fill="#8b949e" text-anchor="middle" font-family="'Courier New', monospace">Chats</text>
+  </g>
+</svg>
